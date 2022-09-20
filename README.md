@@ -21,7 +21,7 @@ This is a health platform designed to serve as portfolio for Rodrigo Gouvea (@ro
   - RuboCop for Ruby code styling;
   - ESLint for JS code styling;
  
-## Database structure
+## Database structure (WIP)
 
 ### User:
 ```
@@ -29,7 +29,7 @@ full_name
 email
 password
 birthdate
-personal_registration # SSN (US)/CPF (BR)
+personal_regist ration # SSN (US)/CPF (BR)
 professional_registration # professional registration number
 organization # FK to Organization
 role # string enum, with values being `Patient`, `Professional`

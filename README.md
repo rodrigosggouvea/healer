@@ -12,7 +12,7 @@ This is a health platform designed to serve as portfolio for Rodrigo Gouvea (@ro
  
 
 ## This project uses these tools:
-  - Ruby 3.1.2;
+  - Ruby 2.7.4;
   - Rails 7;
   - NextJS for the front end;
   - GraphQL requests;
